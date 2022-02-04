@@ -4,4 +4,4 @@
 ·👨‍💻   Web developer at 14h28 agency  <br />
 .📱   Currently learning React Native and Flutter Development**
 
-link to my portfolio : [a link](https://bbulone.web-edu.fr)
+link to my portfolio : [PORTFOLIO](https://bbulone.web-edu.fr)
